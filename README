@@ -1,0 +1,8 @@
+Challange from FreeCodeCamp in order to claim the certificate
+
+https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app
+
+Challange consists in creating a new Class and Methods to operate a Budget App.
+
+budget.py is where I`ve build the Class and Methods that will opperate the App.
+test.py is the lines I`m using to test the budget.py, so you should import the library from budget.py
